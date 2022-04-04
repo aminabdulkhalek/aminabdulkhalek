@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1B1A17&size=30&center=true&vCenter=true&width=900&lines=Hello+World!+🌎+;Salut+Monde!+🌎)](https://git.io/typing-svg)
 
 
